@@ -1,7 +1,5 @@
 package hello.servlet.basic.request;
 
-import org.springframework.boot.web.servlet.ServletComponentScan;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
